@@ -49,3 +49,5 @@ export default function FriendsPreview({ friend })
     </Link>
   );
 }
+
+// this file is completed

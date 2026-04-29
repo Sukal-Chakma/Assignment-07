@@ -16,3 +16,4 @@ export default function FriendsContainer({ friends }) {
     </div>
   );
 }
+//  This file is completed
