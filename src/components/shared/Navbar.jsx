@@ -48,4 +48,4 @@ export default function Navbar() {
 }
 
 
-// Recheck all 
+// Recheck all and solved

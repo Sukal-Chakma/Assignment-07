@@ -16,4 +16,4 @@ export default function FriendsContainer({ friends }) {
     </div>
   );
 }
-//  This file is completed
+//  This file is completed and optimised
