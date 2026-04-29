@@ -44,3 +44,5 @@ export default function Footer() {
     </footer>
   );
 }
+
+// Everything is ok
